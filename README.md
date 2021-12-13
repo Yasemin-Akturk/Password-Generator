@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator Starter Code
 Password Generator
 
 This application can be used to generate a random password based on selected criteria, with the goal of creating strong passwords that provide greater user security. 
